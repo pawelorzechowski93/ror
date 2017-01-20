@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d9a72c7-8197-4756-a19f-1bed6b59ca24" name="ror" url="http://s0.mydevil.net">
+        <fileTransfer host="s0.mydevil.net" port="21" rootFolder="/domains/ror.pawelorzechowski.usermd.net/public_ruby">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

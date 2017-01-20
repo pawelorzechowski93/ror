@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  descryption: MyString
+  start_date: 2016-12-10
+  end_date: 2016-12-10
+
+two:
+  name: MyString
+  descryption: MyString
+  start_date: 2016-12-10
+  end_date: 2016-12-10
